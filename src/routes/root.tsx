@@ -4,7 +4,7 @@ export default function Root() {
   return (
     <>
       <div id="sidebar">
-        <h1>React Router Contacts</h1>
+        <h1>Sandbox 31</h1>
         <div>
           <form id="search-form" role="search">
             <input
@@ -31,10 +31,10 @@ export default function Root() {
         <nav>
           <ul>
             <li>
-              <a href={`/contacts/1`}>Your Name</a>
+              <a href={`/test1`}>Test 1 (Basic RHF)</a>
             </li>
             <li>
-              <a href={`/contacts/2`}>Your Friend</a>
+              <a href={`/test2`}>Test 2 (useRef Basics)</a>
             </li>
           </ul>
         </nav>
