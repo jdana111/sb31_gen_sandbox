@@ -36,6 +36,9 @@ export default function Root() {
             <li>
               <a href={`/test2`}>Test 2 (useRef Basics)</a>
             </li>
+            <li>
+              <a href={`/test3`}>Test 3 (useCallback Basics)</a>
+            </li>
           </ul>
         </nav>
       </div>
