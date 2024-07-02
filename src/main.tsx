@@ -5,10 +5,15 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
+import '@fontsource/roboto/300.css';
+import '@fontsource/roboto/400.css';
+import '@fontsource/roboto/500.css';
+import '@fontsource/roboto/700.css';
 import Root from './routes/root';
 import Test1 from './routes/Test1';
 import Test2 from './routes/Test2';
 import Test3 from './routes/Test3';
+import Test4 from './routes/Test4';
 
 const router = createBrowserRouter([
   {
@@ -26,6 +31,10 @@ const router = createBrowserRouter([
       {
         path: "test3/",
         element: <Test3 />,
+      },
+      {
+        path: "test4/",
+        element: <Test4 />,
       },
     ],
   },

@@ -39,6 +39,9 @@ export default function Root() {
             <li>
               <a href={`/test3`}>Test 3 (useCallback Basics)</a>
             </li>
+            <li>
+              <a href={`/test4`}>Test 4 (MUI Sandbox)</a>
+            </li>
           </ul>
         </nav>
       </div>
