@@ -1,4 +1,3 @@
-import React from 'react';
 import Button from "@mui/material/Button";
 import { AppBar, Toolbar, Container } from '@mui/material';
 import { Typography } from '@mui/material';
