@@ -45,6 +45,9 @@ export default function Root() {
             <li>
               <a href={`/test5`}>Test 5 (MUI Grid Sandbox)</a>
             </li>
+            <li>
+              <a href={`/test6`}>Test 6 (MUI DataGrid)</a>
+            </li>
           </ul>
         </nav>
       </div>
