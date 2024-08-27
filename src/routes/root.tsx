@@ -51,6 +51,9 @@ export default function Root() {
             <li>
               <a href={`/test7`}>Test 7 (Synthetic Events)</a>
             </li>
+            <li>
+              <a href={`/test8`}>Test 8 (MUI Tabs Component)</a>
+            </li>
           </ul>
         </nav>
       </div>
