@@ -48,6 +48,9 @@ export default function Root() {
             <li>
               <a href={`/test6`}>Test 6 (MUI DataGrid)</a>
             </li>
+            <li>
+              <a href={`/test7`}>Test 7 (Synthetic Events)</a>
+            </li>
           </ul>
         </nav>
       </div>
