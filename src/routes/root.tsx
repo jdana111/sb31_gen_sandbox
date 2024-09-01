@@ -31,28 +31,28 @@ export default function Root() {
         <nav>
           <ul>
             <li>
-              <a href={`/test1`}>Test 1 (Basic RHF)</a>
+              <a href={`/Test01`}>Test 01 (Basic RHF)</a>
             </li>
             <li>
-              <a href={`/test2`}>Test 2 (useRef Basics)</a>
+              <a href={`/Test02`}>Test 02 (useRef Basics)</a>
             </li>
             <li>
-              <a href={`/test3`}>Test 3 (useCallback Basics)</a>
+              <a href={`/Test03`}>Test 03 (useCallback Basics)</a>
             </li>
             <li>
-              <a href={`/test4`}>Test 4 (MUI Sandbox)</a>
+              <a href={`/Test04`}>Test 04 (MUI Sandbox)</a>
             </li>
             <li>
-              <a href={`/test5`}>Test 5 (MUI Grid Sandbox)</a>
+              <a href={`/Test05`}>Test 05 (MUI Grid Sandbox)</a>
             </li>
             <li>
-              <a href={`/test6`}>Test 6 (MUI DataGrid)</a>
+              <a href={`/Test06`}>Test 06 (MUI DataGrid)</a>
             </li>
             <li>
-              <a href={`/test7`}>Test 7 (Synthetic Events)</a>
+              <a href={`/Test07`}>Test 07 (Synthetic Events)</a>
             </li>
             <li>
-              <a href={`/test8`}>Test 8 (MUI Tabs Component)</a>
+              <a href={`/Test08`}>Test 08 (MUI Tabs Component)</a>
             </li>
           </ul>
         </nav>

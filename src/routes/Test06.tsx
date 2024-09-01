@@ -15,7 +15,7 @@ const columns: GridColDef[] = [
   { field: "col2", headerName: "Column 2", width: 150 },
 ];
 
-export default function Test6() {
+export default function Test06() {
   return (
     <div style={{ height: 300, width: "100%" }}>
       <DataGrid

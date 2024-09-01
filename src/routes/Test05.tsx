@@ -2,7 +2,7 @@ import Grid from '@mui/material/Grid';
 import Paper from '@mui/material/Paper';
 import Typography from '@mui/material/Typography';
 
-function Test5() {
+function Test05() {
   return (
     <Grid container spacing={3} alignItems="center" justifyContent="center">
       <Grid item xs={12} sm={6} md={4}>
@@ -24,4 +24,4 @@ function Test5() {
   );
 }
 
-export default Test5;
+export default Test05;

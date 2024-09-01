@@ -3,7 +3,7 @@ import { AppBar, Toolbar, Container } from '@mui/material';
 import { Typography } from '@mui/material';
 import Box from '@mui/material/Box';
 
-export default function Test4() {
+export default function Test04() {
   return (
     <>
       <AppBar position="static" sx={{ color: '#F00' }}>

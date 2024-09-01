@@ -5,7 +5,7 @@ type Inputs = {
   exampleRequired: string
 }
 
-export default function Test1() {
+export default function Test01() {
   const {
     register,
     handleSubmit,
