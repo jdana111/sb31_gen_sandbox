@@ -1,3 +1,5 @@
+// Test06 (MUI DataGrid)
+// https://mui.com/components/data-grid/
 import { DataGrid, GridRowsProp, GridColDef } from "@mui/x-data-grid";
 
 const rows: GridRowsProp = [
