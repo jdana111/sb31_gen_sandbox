@@ -54,6 +54,9 @@ export default function Root() {
             <li>
               <a href={`/Test08`}>Test 08 (MUI Tabs Component)</a>
             </li>
+            <li>
+              <a href={`/Test09`}>Test 09 (CSS Margin Collapse)</a>
+            </li>
           </ul>
         </nav>
       </div>

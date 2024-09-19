@@ -18,6 +18,7 @@ import Test05 from './routes/Test05';
 import Test06 from './routes/Test06';
 import Test07 from './routes/Test07';
 import Test08 from './routes/Test08';
+import Test09 from './routes/Test09';
 
 const router = createBrowserRouter([
   {
@@ -55,6 +56,10 @@ const router = createBrowserRouter([
       {
         path: "Test08/",
         element: <Test08 />,
+      },
+      {
+        path: "Test09/",
+        element: <Test09 />,
       },
     ],
   },
