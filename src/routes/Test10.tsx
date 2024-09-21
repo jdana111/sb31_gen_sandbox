@@ -1,4 +1,4 @@
-// Test09 (CSS Margin Collapse)
+// Test10 (Background)
 // Source: ChatGPT
 import React from "react";
 
@@ -6,13 +6,14 @@ const Test10: React.FC = () => {
   return (
     <div
       style={{
-        margin: "50px",
-        padding: "30px",
-        border: "solid 1px blue",
-        backgroundColor: "#FF2255",
+        margin: '50px',
+        padding: '100px',
+        border: 'solid 1px blue',
+        backgroundColor: 'lightgray',
+        backgroundImage: `url('/balls.jpg')`,
       }}
     >
-      Heading 1
+      Background Test
     </div>
   );
 };

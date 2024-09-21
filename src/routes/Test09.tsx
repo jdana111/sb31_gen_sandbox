@@ -12,7 +12,6 @@ const SandboxComponent: React.FC = () => {
       <div style={{ backgroundColor: 'lightblue' }}>
         <h1
           style={{
-            margin: '50px',
             padding: '30px 0',
             border: 'solid 1px blue',
             backgroundColor: '#FF2255',
