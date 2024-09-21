@@ -57,6 +57,9 @@ export default function Root() {
             <li>
               <a href={`/Test09`}>Test 09 (CSS Margin Collapse)</a>
             </li>
+            <li>
+              <a href={`/Test10`}>Test 10 (Background)</a>
+            </li>
           </ul>
         </nav>
       </div>
