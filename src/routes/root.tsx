@@ -60,6 +60,9 @@ export default function Root() {
             <li>
               <a href={`/Test10`}>Test 10 (Background)</a>
             </li>
+            <li>
+              <a href={`/Test11`}>Test 11 (Block versus Inline)</a>
+            </li>
           </ul>
         </nav>
       </div>
