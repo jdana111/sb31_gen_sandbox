@@ -5,20 +5,36 @@ import React from "react";
 const Test11: React.FC = () => {
   return (
     <>
-      <span>some text...</span>
-      <p
+      <div
         style={{
-          display: "inline",
-          backgroundColor: "lightcoral",
-          padding: "10px",
-          margin: "10px",
-          border: "2px solid red",
-          width: "200px", // This will be ignored for inline elements
+          display: "block",
+          backgroundColor: "lightblue",
+          padding: "20px 0 20px 10px",
+          border: "2px solid blue",
         }}
       >
-        This is an inline element (display: inline)
-      </p>
-      <span>some more text...</span>
+        <div
+          style={{
+            display: "inline",
+            backgroundColor: "lightcoral",
+            padding: "10px",
+            border: "2px solid red",
+          }}
+        >
+          Child 1
+        </div>
+        <div
+          style={{
+            display: "inline",
+            backgroundColor: "lightcoral",
+            padding: "10px",
+            margin: "10px",
+            border: "2px solid red",
+          }}
+        >
+          Child 2
+        </div>
+      </div>
     </>
   );
 };
