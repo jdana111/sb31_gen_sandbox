@@ -1,4 +1,5 @@
-// src/components/Test12.tsx
+// Test12 (MUI Themes)
+// Source: ChatGPT
 import React from 'react';
 import { ThemeProvider, CssBaseline, Typography, Button, Paper } from '@mui/material';
 import appTheme from './../themes/appTheme';
@@ -6,7 +7,7 @@ import appTheme from './../themes/appTheme';
 const Test12: React.FC = () => {
   return (
     <ThemeProvider theme={appTheme}>
-      <CssBaseline /> {/* Ensures that CssBaseline is applied */}
+      // <CssBaseline /> Ensures that CssBaseline is applied
       <Paper style={{ padding: '16px', margin: '16px' }} elevation={3}>
         <Typography variant="h1">Welcome to Test12 Component</Typography>
         <Typography variant="h2">This is an H2 Heading</Typography>

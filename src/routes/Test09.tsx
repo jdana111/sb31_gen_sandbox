@@ -2,7 +2,7 @@
 // Source: ChatGPT
 import React from "react";
 
-const SandboxComponent: React.FC = () => {
+const Test09: React.FC = () => {
   return (
     <>
       <p>
@@ -37,4 +37,4 @@ const SandboxComponent: React.FC = () => {
   );
 };
 
-export default SandboxComponent;
+export default Test09;
