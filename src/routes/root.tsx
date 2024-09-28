@@ -64,7 +64,10 @@ export default function Root() {
               <a href={`/Test11`}>Test 11 (Block versus Inline)</a>
             </li>
             <li>
-              <a href={`/Test12`}>Test 12 (MUI Themes)</a>
+              <a href={`/Test12`}>Test 12 (MUI Theme)</a>
+            </li>
+            <li>
+              <a href={`/Test13`}>Test 13 (MUI JSS-Based Styling)</a>
             </li>
           </ul>
         </nav>
