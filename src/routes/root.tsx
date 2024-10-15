@@ -70,7 +70,7 @@ export default function Root() {
               <a href={`/Test13`}>Test 13 (MUI JSS-Based Styling)</a>
             </li>
             <li>
-              <a href={`/Test14`}>Test 14 (Oops. This is available.)</a>
+              <a href={`/Test14`}>Test 14 (MUI Tabs)</a>
             </li>
           </ul>
         </nav>
