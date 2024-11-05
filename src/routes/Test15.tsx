@@ -1,4 +1,4 @@
-// Test15 (Promises)
+// Test15 (Promises, Classic Construct)
 // Source: ChatGPT
 
 import { useEffect, useState } from 'react';
@@ -26,7 +26,7 @@ const Test15 = () => {
 
   return (
     <div>
-      <h1>Promises, Lesson 1</h1>
+      <h1>Promises, Classic Construct</h1>
       {data ? (
         <div>
           <p>Name: {data.name}</p>

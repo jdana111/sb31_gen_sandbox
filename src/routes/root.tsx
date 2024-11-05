@@ -73,7 +73,10 @@ export default function Root() {
               <a href={`/Test14`}>Test 14 (MUI Tabs)</a>
             </li>
             <li>
-              <a href={`/Test15`}>Test 15 (Promises, Lesson 1)</a>
+              <a href={`/Test15`}>Test 15 (Promises, Classic Construct)</a>
+            </li>
+            <li>
+              <a href={`/Test16`}>Test 16 (Promises, async / await Const.)</a>
             </li>
           </ul>
         </nav>
