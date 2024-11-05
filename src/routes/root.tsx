@@ -72,6 +72,9 @@ export default function Root() {
             <li>
               <a href={`/Test14`}>Test 14 (MUI Tabs)</a>
             </li>
+            <li>
+              <a href={`/Test15`}>Test 15 (Promises, Lesson 1)</a>
+            </li>
           </ul>
         </nav>
       </div>
