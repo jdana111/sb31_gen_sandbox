@@ -12,7 +12,7 @@ const Test15 = () => {
     return new Promise((resolve, reject) => {
       setTimeout(() => {
         const data = { name: "Alice", age: 25 };
-        resolve(data); // Resolve the promise with the data object
+        resolve(data);
       }, 2000);
     });
   };

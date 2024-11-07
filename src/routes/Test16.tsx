@@ -8,8 +8,7 @@ const Test16 = () => {
 
   // Update fetchData to use async/await
   const fetchData = async () => {
-    // Simulate data fetching with a delay
-    return new Promise((resolve) => {
+    return new Promise((resolve, reject) => {
       setTimeout(() => {
         const data = { name: "Alice", age: 25 };
         resolve(data);
