@@ -81,6 +81,9 @@ export default function Root() {
             <li>
               <a href={`/Test17`}>Test 17 (Destructuring with TS)</a>
             </li>
+            <li>
+              <a href={`/Test18`}>Test 18 (TypeScript Sandbox)</a>
+            </li>
           </ul>
         </nav>
       </div>
