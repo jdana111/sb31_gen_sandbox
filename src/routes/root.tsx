@@ -78,6 +78,9 @@ export default function Root() {
             <li>
               <a href={`/Test16`}>Test 16 (Promises, async / await Const.)</a>
             </li>
+            <li>
+              <a href={`/Test17`}>Test 17 (Destructuring with TS)</a>
+            </li>
           </ul>
         </nav>
       </div>
