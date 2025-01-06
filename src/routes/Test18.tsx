@@ -1,4 +1,5 @@
 // Test18 (TypeScript Sandbox)
+// Rando comment - Keep this.
 
 // Sandbox A – `?:` Operator and `| undefined` are not equivalent.
 interface House {
@@ -23,7 +24,8 @@ const home: House = {
   sqft: 500,
 };
 
-// Sandbox B – Create another test here.
+// Sandbox B – VSCode "Staging Line" feature.
+// Rando comment - Keep this.
 
 // Sandbox C – Create another test here.
 
