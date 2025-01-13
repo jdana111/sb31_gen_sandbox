@@ -1,7 +1,6 @@
 // Test19 (RHF's useFieldArray Hook)
 // Source: ChatGPT
 
-import React from "react";
 import { useForm, useFieldArray } from "react-hook-form";
 
 const FieldArrayExample = () => {

@@ -87,6 +87,9 @@ export default function Root() {
             <li>
               <a href={`/Test19`}>Test 19 (RHF's useFieldArray Hook)</a>
             </li>
+            <li>
+              <a href={`/Test20`}>Test 20 (array.map and render)</a>
+            </li>
           </ul>
         </nav>
       </div>
