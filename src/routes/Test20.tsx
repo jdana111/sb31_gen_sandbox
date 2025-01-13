@@ -1,5 +1,6 @@
 // Test20 (array.map with render)
 // Source: react.dev/learn/choosing-the-state-structure
+// Comment: This is a precursor to Test19.tsx, which uses RHF's useFieldArray Hook.
 
 import { useState } from 'react';
 
