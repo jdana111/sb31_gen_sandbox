@@ -19,7 +19,7 @@ function printYardSize(house: House) {
     return `Yard is ${yardSize} sqft`;
   }
 }
-
+// Rando comment - Drop this.
 const home: House = {
   sqft: 500,
 };
@@ -28,6 +28,7 @@ const home: House = {
 // Rando comment - Keep this.
 
 // Sandbox C – Create another test here.
+// Rando comment - Drop this.
 
 function Test18() {
   return (

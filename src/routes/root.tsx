@@ -84,6 +84,9 @@ export default function Root() {
             <li>
               <a href={`/Test18`}>Test 18 (TypeScript Sandbox)</a>
             </li>
+            <li>
+              <a href={`/Test19`}>Test 19 (RHF's useFieldArray Hook)</a>
+            </li>
           </ul>
         </nav>
       </div>
