@@ -16,7 +16,10 @@ const FieldArrayExample = () => {
   });
 
   const onSubmit = (data) => {
-    console.log("Submitted Data:", data);
+    console.log("fields: ", fields);
+    console.log("fields: ", JSON.stringify(fields, null, 2));
+    console.log("data: ", data);
+    console.log("data: ", JSON.stringify(data, null, 2));
   };
 
   return (
