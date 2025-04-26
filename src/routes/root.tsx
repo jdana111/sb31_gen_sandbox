@@ -90,6 +90,9 @@ export default function Root() {
             <li>
               <a href={`/Test20`}>Test 20 (array.map and render)</a>
             </li>
+            <li>
+              <a href={`/Test21`}>Test 21 (useEffect with console.log)</a>
+            </li>
           </ul>
         </nav>
       </div>
