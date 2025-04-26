@@ -1,4 +1,4 @@
-// Test20 (array.map with render)
+// Test21 (useEffect with console.log)
 // Source: (ChatGPT, GLD useMemo, useEffect... Review v1, https://chatgpt.com/c/680ce6d7-caa4-8009-b15d-ebbdecc7dda7)
 import React, { useEffect, useState } from 'react';
 

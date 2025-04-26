@@ -93,6 +93,9 @@ export default function Root() {
             <li>
               <a href={`/Test21`}>Test 21 (useEffect with console.log)</a>
             </li>
+            <li>
+              <a href={`/Test22`}>Test 22 (useMemo Intro)</a>
+            </li>
           </ul>
         </nav>
       </div>
