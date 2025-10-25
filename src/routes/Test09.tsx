@@ -17,17 +17,17 @@ const Test09: React.FC = () => {
             backgroundColor: '#FF2255',
           }}
         >
-          Heading 1
+          Heading 1 (No explicit margins)
         </h1>
-        <h2
+        <h1
           style={{
             margin: '20px 0 0 0',
             border: 'solid 1px blue',
             backgroundColor: 'red',
           }}
         >
-          Heading 2
-        </h2>
+          Heading 1 (No explcit padding)
+        </h1>
       </div>
       <p>
         <b>Type 2, Parent-Child Margin Collapse:</b> When the parent has no

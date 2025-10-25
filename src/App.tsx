@@ -1,3 +1,6 @@
+// Johnny — Take a look at index.html. It references main.tsx, not App.tsx. 
+// App.tsx is not currently being used in the project.
+// Similarly, since App.css is imported only in App.tsx, it is also not being used.
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
