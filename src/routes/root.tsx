@@ -96,6 +96,9 @@ export default function Root() {
             <li>
               <a href={`/Test22`}>Test 22 (useMemo Intro)</a>
             </li>
+            <li>
+              <a href={`/Test23`}>Test 23 (e.target vs e.currentTarget)</a>
+            </li>
           </ul>
         </nav>
       </div>

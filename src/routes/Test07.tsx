@@ -9,24 +9,24 @@ export default function Form() {
     email: 'bhepworth@sculpture.com'
   });
 
-  function handleFirstNameChange(e) {
+  function handleFirstNameChange(event) {
     setPerson({
       ...person,
-      firstName: e.target.value
+      firstName: event.target.value
     });
   }
 
-  function handleLastNameChange(e) {
+  function handleLastNameChange(event) {
     setPerson({
       ...person,
-      lastName: e.target.value
+      lastName: event.target.value
     });
   }
 
-  function handleEmailChange(e) {
+  function handleEmailChange(event) {
     setPerson({
       ...person,
-      email: e.target.value
+      email: event.target.value
     });
   }
 
@@ -61,3 +61,4 @@ export default function Form() {
     </>
   );
 }
+
