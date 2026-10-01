@@ -99,6 +99,9 @@ export default function Root() {
             <li>
               <a href={`/Test23`}>Test 23 (e.target vs e.currentTarget)</a>
             </li>
+            <li>
+              <a href={`/Test24`}>Test 24 (Stopwatch)</a>
+            </li>
           </ul>
         </nav>
       </div>
